@@ -26,7 +26,7 @@ To investigate which model performs better, we will also be modifying the origin
 
 | RGB | HSV |
 | --- | --- |
-|     |     |
+|  ![image](https://github.com/user-attachments/assets/2e6dc6c1-a9f2-444d-8ace-c0752a190918) | ![image](https://github.com/user-attachments/assets/61afb00b-c64d-40c4-8f4a-87e84d186e1f)  |
 
 ## Model Building
 
